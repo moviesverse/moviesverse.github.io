@@ -1,2 +1,2 @@
 # moviesverse.github.io
-web tech protect 
+Project work of web technology subject in beta mode.
